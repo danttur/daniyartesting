@@ -1,0 +1,53 @@
+commit 0ffde570737581aeca33fdac3a519dbf35d00943 (HEAD)
+Author: Daniyar Turatbekov <dturatbekov@gmail.com>
+Date:   Mon Oct 24 20:47:43 2022 +0600
+
+    Dobavili testing12
+
+commit 2f9439e0f9ef8776e7ccea4197015cf82ddeda24 (master)
+Author: Daniyar Turatbekov <dturatbekov@gmail.com>
+Date:   Mon Oct 24 20:25:57 2022 +0600
+
+    Time4
+
+commit 00605a67e415e5f123238a394f6949b2d9b063a3
+Author: Daniyar Turatbekov <dturatbekov@gmail.com>
+Date:   Mon Oct 24 20:24:54 2022 +0600
+
+    Time3
+
+commit 147efdbfdacda81c071ae3a3f9cb6ee2614f16b1
+Author: Daniyar Turatbekov <dturatbekov@gmail.com>
+Date:   Mon Oct 24 20:24:07 2022 +0600
+
+    Time2
+
+commit 0b7e43a9d06d77bde894096397c8393024b94d9e
+Author: Daniyar Turatbekov <dturatbekov@gmail.com>
+Date:   Mon Oct 24 20:22:52 2022 +0600
+
+    Time1
+
+commit 137468f9073a0247940d8f77d62dc064988379fa
+Author: Daniyar Turatbekov <dturatbekov@gmail.com>
+Date:   Mon Oct 24 20:05:14 2022 +0600
+
+    Nujnie izmeneniya
+
+commit a4fef39434b4d27519de6cd64a5f450ee075104f
+Author: Daniyar Turatbekov <dturatbekov@gmail.com>
+Date:   Mon Oct 24 19:49:36 2022 +0600
+
+    Bez staging
+
+commit 9fbc379d253e831d13835637d575ce8614a07fe9
+Author: Daniyar Turatbekov <dturatbekov@gmail.com>
+Date:   Fri Oct 21 21:38:07 2022 +0600
+
+    pereimenoval fail #3
+
+commit 7c82e3875999ed8f4a0b47cb147e6c74d0eee86a
+Author: Daniyar Turatbekov <dturatbekov@gmail.com>
+Date:   Fri Oct 21 21:35:20 2022 +0600
+
+    renamed file and deleted one file
